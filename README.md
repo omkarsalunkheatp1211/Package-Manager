@@ -22,5 +22,5 @@ The YUM Package Manager script is a bash utility designed to facilitate the inst
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/omkarsalunkheatp1211/Package-Manager.git
-3. Install and configure Postfix [here](https://docs.oracle.com/en/learn/oracle-linux-postfix/#introduction)
+3. Postfix Installation and Configuration [here](https://github.com/omkarsalunkheatp1211/Postfix-Installation-and-Configuration-on-Linux.git)
 
